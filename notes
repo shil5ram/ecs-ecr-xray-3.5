@@ -1,0 +1,2 @@
+arn:aws:secretsmanager:us-east-1:255945442255:secret:shil/db_password-Tr7hba
+arn:aws:ssm:us-east-1:255945442255:parameter/shil/config
